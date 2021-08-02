@@ -62,7 +62,7 @@ function repetidoMaisVezes(){
 
 
 
-//chama nossa funções
+//chama nossa função
 repetidoMaisVezes();
 
 ?>
